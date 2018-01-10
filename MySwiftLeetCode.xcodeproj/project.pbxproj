@@ -55,6 +55,7 @@
 		E3095D372005DFA000EB72FA /* StringtoInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringtoInteger.swift; sourceTree = "<group>"; };
 		E3095D382005DFA000EB72FA /* TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		E3095D392005DFA000EB72FA /* ZigZagConversion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZigZagConversion.swift; sourceTree = "<group>"; };
+		E39D9A4A2005E3A80060AACE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 			children = (
 				E3095D2A2005DFA000EB72FA /* LeetCodeTrainning */,
 				E3095D232005DF8700EB72FA /* main.swift */,
+				E39D9A4A2005E3A80060AACE /* README.md */,
 			);
 			path = MySwiftLeetCode;
 			sourceTree = "<group>";
