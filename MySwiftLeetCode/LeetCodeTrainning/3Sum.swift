@@ -8,7 +8,7 @@
 
 import Cocoa
 
-class _Sum: NSObject {
+class _Sum: NSObject { 
 
     func threeSum(_ nums: [Int]) -> [[Int]] {
         
